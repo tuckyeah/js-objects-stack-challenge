@@ -21,9 +21,11 @@ Requirements
 
 * You should be able to create a new stack with `var stack = new Stack();`.
 * Your stack should have two methods, `push` and `pop`.
-    * `push` adds a new value to the stack's storage and returns the added value
-    * `pop` removes the most recently added value from the stack's storage and returns it
-* You should not use `Array.prototype.push()` or `Array.prototype.pop()`
+    * `push` adds a new value to the stack's storage and returns the stack itself.
+    * `pop` removes the most recently added value from the stack's storage and returns it.
+* You should not use `Array.prototype.push()` or `Array.prototype.pop()`.
+
+As you work, you may run `grunt test` to check your code against these requirements.
 
 Bonus
 -----
