@@ -5,6 +5,8 @@ JavaScript Warm-Up: Stack
 
 > In computer science, a stack or LIFO (last in, first out) is an abstract data type that serves as a collection of elements, with two principal operations: push, which adds an element to the collection, and pop, which removes the last element that was added. -- [Stack (abstract data type), Wikipedia](https://en.wikipedia.org/wiki/Stack_\(abstract_data_type\))
 
+The goal of this exercise to practice writing prototype methods. As a reminder of how we use prototypes, we've provided started code including a constructor function and one completed prototype method. Your job will be to complete the remaining method.
+
 Instructions
 ------------
 
