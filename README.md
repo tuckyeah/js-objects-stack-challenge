@@ -17,7 +17,7 @@ Create a custom JavaScript object modeling the stack using a constructor functio
 Requirements
 ------------
 
-* You should be able to create a new stack with `var stack = Stack.new();`.
+* You should be able to create a new stack with `var stack = new Stack();`.
 * Your stack should have two methods, `push` and `pop`.
     * `push` adds a new value to the stack's storage and returns the added value
     * `pop` removes the most recently added value from the stack's storage and returns it
@@ -29,8 +29,8 @@ Bonus
 Pre-fill the stack on instantiation.
 
 ```
-var stack = Stack.new([1,2,3])
-stack.pop() //=> 3
+var stack = new Stack([1,2,3]);
+stack.pop(); //=> 3
 ```
 
 Which parts of each method are side-effects, and which are the "main" effect?
