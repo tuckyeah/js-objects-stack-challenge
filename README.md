@@ -44,7 +44,7 @@ requirements.
 Pre-fill the stack on instantiation.
 
 ```js
-var stack = new Stack([1,2,3]);
+var stack = new Stack(1,2,3);
 stack.pop(); //=> 3
 ```
 
