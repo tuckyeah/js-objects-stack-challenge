@@ -1,18 +1,12 @@
 {
-  "browser": true,
-  "browserify": true,
   "curly": true,
-  "devel": true,
   "eqeqeq": true,
-  "esnext": true,
-  "globalstrict": true,
-  "jasmine": true,
-  "jquery": true,
-  "latedef": "nofunc",
-  "noarg": true,
-  "nonew": true,
-  "quotmark": "single",
-  "strict": true,
+  "strict": "global",
   "undef": true,
-  "unused": true
+  "sub": true,
+  "esnext": true,
+  "quotmark": true,
+  "devel": true,
+  "node": true,
+  "jasmine": true
 }
