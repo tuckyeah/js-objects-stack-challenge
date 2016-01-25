@@ -9,7 +9,7 @@
 > Wikipedia](https://en.wikipedia.org/wiki/Stack_\(abstract_data_type\))
 
 The goal of this exercise to practice writing prototype methods. As a reminder
-of how we use prototypes, we've provided started code including a constructor
+of how we use prototypes, we've provided starter code including a constructor
 function and one completed prototype method. Your job will be to complete the
 remaining method.
 
@@ -17,6 +17,8 @@ remaining method.
 
 1.  [Fork and clone](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone)
     this repository.
+1.  Install dependencies.
+1.  Create a working branch.
 1.  Change into the new directory.
 1.  Follow the remaining instructions.
 
