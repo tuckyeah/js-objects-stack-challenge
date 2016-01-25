@@ -1,6 +1,6 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-# JavaScript Warm-Up: Stack
+# JavaScript Stack Challenge
 
 > In computer science, a stack or LIFO (last in, first out) is an abstract data
 > type that serves as a collection of elements, with two principal operations:
