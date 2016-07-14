@@ -31,10 +31,9 @@ Starter code has been provided in [`lib/stack.js`](lib/stack.js).
 -   You should be able to create a new stack with `let stack = new Stack();`.
 -   Your stack should have two methods, `push` and `pop`.
 
-    -   `push` adds a new value to the stack's storage and returns the stack
-        itself.
-    -   `pop` removes the most recently added value from the stack's storage and
-        returns it.
+    -   `push` adds a new value to the stack's storage.
+    -   `pop` removes the most recently added value from the stack's storage
+        and returns it.
 
 -   You should not use `Array.prototype.push()` or `Array.prototype.pop()`.
 
@@ -42,6 +41,9 @@ As you work, you may run `grunt test` to check your code against these
 requirements.
 
 ## Bonuses
+
+Change `xit` to `it` in `spec/stack.spec.js` to have `grunt test` check the
+bonuses.
 
 ### Pre-fill the stack on instantiation
 

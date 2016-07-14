@@ -49,7 +49,7 @@ describe('Stack.prototype.push()', function () {
       foo: 'bar',
     };
 
-    expect(stack.push(pushed)).to.deep.equal(stack);
+    expect(stack.push(pushed)).to.equal(stack);
   });
 });
 
