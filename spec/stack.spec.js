@@ -17,7 +17,7 @@ describe('Stack', function () {
     expect(stack._storage).to.deep.equal(empty);
   });
 
-  xit('creates a stack containing the arguments', function () {
+  it('creates a stack containing the arguments', function () {
     const stack = new Stack('a', 'b', 'c');
     const storage = {
       0: 'a',
@@ -43,7 +43,7 @@ describe('Stack.prototype.push()', function () {
     });
   });
 
-  xit('returns the stack itself', function () {
+  it('returns the stack itself', function () {
     const stack = new Stack();
     const pushed = {
       foo: 'bar',
